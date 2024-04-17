@@ -6,7 +6,7 @@
     "telegram",
     "bot",
     "python",
-    "pyrogram"/
+    "pyrogram"
   ],
     "buildpacks": [{
     "url": "heroku/python"
